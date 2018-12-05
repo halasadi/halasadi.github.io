@@ -5,8 +5,8 @@ email: halasadi89@gmail.com
 description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
 avatar: https://github.com/halasadi/halasadi.github.io/blob/master/profile_pic.jpg
 favicon: /favicon.ico
-twitter_handler: halasadi
-analytics_code: UA-XXXXXXX-2
+twitter_handler: halasadi89
+analytics_code: UA-130485515-1
 disqus: your_disqus_site
 
 # Social Accounts
@@ -41,7 +41,7 @@ social_networks:
 show_categories: 1
 show_tags: 1
 show_email: 1
-show_rss: 1
+show_rss: 0
 show_comments: 1
 show_menu: 1
 fixed_sidebar: 1
