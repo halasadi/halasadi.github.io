@@ -4,9 +4,56 @@ title:  "Resume"
 permalink: "/resume/"
 ---
 
-<figure>
-    <img src="https://cdn.dribbble.com/users/1073937/screenshots/5036567/waterfall.png" />
-    <figcaption>Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a></figcaption>
-</figure>
+#Your Name
+1234 Main St., City, State 12345
+(555) 555-5555
+your.name@example.com
+http://www.example.com
+http://www.linkedin.com/in/yourname
 
-In addition to writing posts, another thing you may want to do with your Jekyll site is create static pages. By taking advantage of the way Jekyll copies files and directories, this is easy to do. [More Information](https://jekyllrb.com/docs/pages/){:target="_blank"}
+#Summary
+
+Quick Summary (not objective) specifically highlighting why you qualify for the job.
+
+#Work Experience (only last 10 years)
+
+## Company Name 1 (City, State)
+*[Company 1][] description, particularly if not well-known.*
+
+**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+## Company Name 2 (City, State)
+*[Company 2][] description, particularly if not well-known.*
+
+**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment that contains **bold text**.
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+## Company Name 3 (City, State)
+*[Company 3][] description, particularly if not well-known.*
+
+**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+
+Summary of your role
+
+- Accomplishment
+- Accomplishment
+- Accomplishment
+- Accomplishment
+
+
+[Company 1]: http://www.example.com/company1
+[Company 2]: http://www.example.com/company2
+[Company 3]: http://www.example.com/company2
