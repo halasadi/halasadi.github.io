@@ -20,7 +20,7 @@ Most of the time is spent figuring out what the problem is,
 But I do spend a significant amount of time thinking about the statistical nature of the data. Here is a screen shot of the whiteboard from a recent meeting. 
 
 <figure class="aligncenter">
-	<img src="/board_meeting.jpg" style = "width:40%">
+	<img src="/white_board_meeting.jpg" style = "width:40%">
 	<figcaption>Thinking about the information flow of data from a biological experiment.</figcaption>
 </figure>
 
