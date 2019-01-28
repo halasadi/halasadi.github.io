@@ -8,9 +8,7 @@ category:
 ---
 
 
-One of my motivations in starting this blog is to write about the various statistical challenges in industry. As a graduate student, I really had no idea what to expect as I was contemplating academia vs industry. I hope this gives some PhD students an idea of what problems once can expect in industry. Another motativation is to simply write about cool problems! 
-
-Also, I found it interesting that by far the most important skill is being able to communicate effectively with your fellow colleagues. That skill was not really emphasized during my academic training.
+One of my motivations in starting this blog is to write about the various statistical challenges in industry. As a graduate student, I really had no idea what to expect as I was contemplating academia vs industry. I hope this gives some PhD students an idea of the problems statisicians tackle in industry. Another motativation is to simply write about cool problems! 
 
 A lot of my time is spent figuring out what the problem is,
 
