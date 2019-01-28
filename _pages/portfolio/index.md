@@ -13,7 +13,7 @@ permalink: "/previous_work/"
 
 Here, we developed a model for inferring population demography across space. Our model uses population genetic theory to relate the observed genetic data to the underlying demographic parameters. We apply our method to humans populations in Europe. Based on this work, I was selected as a *Semifinalist for the Charles J. Epstein Award for Excellence in Human Genetics Research*.
 
-Link to preprint <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007908" title="ab">here</a>.
+Link to paper <a href="https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007908" title="ab">here</a>.
 
 ## Inference and visualization of ancient DNA damage (2018).
 
