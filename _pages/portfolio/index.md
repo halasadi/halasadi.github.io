@@ -26,3 +26,4 @@ Here, we very much motivated by our first hand experience in working with ancien
 
 Link to paper <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty779/5091332?redirectedFrom=fulltext" title="ab">here</a>.
 
+## Statistical approaches for assessing population continuity in ancient DNA
