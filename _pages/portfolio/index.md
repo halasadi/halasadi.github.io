@@ -22,8 +22,6 @@ Link to paper <a href="https://journals.plos.org/plosgenetics/article?id=10.1371
 	<figcaption>Inferred grades of membership and clusters for a wide array of ancient DNA data-sets</figcaption>
 </figure>
 
-Here, we very much motivated by our first hand experience in working with ancient DNA data. When working with ancient DNA, a necessary first step is to assess the amount of damage in the data. We realized that many of the current approaches failed to capture hidden structure in the data and did not provide concise and comprehensive visual summaries. To attempt to remedy these problems, we developed an approach based on "grade of membership"" models (also known as "topic models"). 
+Here, we very much motivated by our first hand experience in working with ancient DNA data. When working with ancient DNA, a necessary first step is to assess the amount of damage in the data. We realized that many of the current approaches failed to capture all patterns of DNA damage in the data and did not provide concise and comprehensive visual summaries of the damage patterns. To attempt to remedy these problems, we developed an approach based on "grade of membership"" models (also known as "topic models"). 
 
 Link to paper <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty779/5091332?redirectedFrom=fulltext" title="ab">here</a>.
-
-## Statistical approaches for assessing population continuity in ancient DNA
