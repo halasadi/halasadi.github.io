@@ -8,9 +8,9 @@ category:
 ---
 
 
-One of my motivations in starting this blog is to write about the various technical issues (e.g. statistical problems) I face in Biotech. 
+One of my motivations in starting this blog is to write about the various statistical challenges in industry. As a graduate student, I really had no idea what to expect as I was contemplating academia vs industry. I hope this gives some PhD students an idea of the problems statisicians tackle in industry. Another motativation is to simply write about cool problems! 
 
-Most of the time is spent figuring out what the problem is,
+A lot of my time is spent figuring out what the problem is,
 
 <figure class="aligncenter">
 	<img src="/stats_industry.jpeg" style = "width:80%">

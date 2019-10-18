@@ -22,13 +22,7 @@ Located in Seattle, WA
 **Statistical Geneticist at <a href="https://www.adaptivebiotech.com" title="ab">Adaptive Biotechnologies</a>** (Jun-Aug 2017, Jul 2018 - now)
 
 I analyze and build statistical models of immunological data.
- - Showed that T-cells can be matched to which antigens they bind using a machine learning algorithm (Random Forests). This project was used for prelimary evidence to support the <a href="https://www.adaptivebiotech.com/tcr-antigen-map" title="ab">Antigen Map Project</a>.
- - Currently working with Microsoft to develop a statistical pipeline for processing data for the Antigen Map Project.
  
-**Intern at Cataphora Inc** (Summer 2012)
-
-Combination of quality assurance work and software engineering at a data science startup. Company now out of business. 
-
 # Publications
 
 See publication history on my <a href="https://scholar.google.com/citations?user=eL83UswAAAAJ&hl=en" title="ab">Google Scholar</a>.
@@ -37,3 +31,4 @@ See publication history on my <a href="https://scholar.google.com/citations?user
 
 - Semifinalist for the Charles J. Epstein Trainee Awards for Excellence in Human Genetics Research ($750), 2016
 - NSF Graduate Research Fellowship ($132,000), 2013
+- Best Poster at Joint Math Meetings, 2012
