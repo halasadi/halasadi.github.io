@@ -13,7 +13,7 @@ Located in Seattle, WA
 
 - Thesis title: *Statistical Methods for Genetic Data*. Please see thesis <a href="http://stephenslab.uchicago.edu/assets/papers/hussein-thesis.pdf" title="ab">here</a>. 
 
-**Masters of Science, Statistics** at *The University of Chicago, 2018*
+**Masters of Science, Statistics** at *The Univerity of Chicago, 2018*
 
 **Bachelors of Science, Mathematics** at *The University of Michigan Ann Arbor, 2012*
 
