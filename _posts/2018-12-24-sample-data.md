@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2018-12-24 23:56
-title:  "Welcome!"
+title:  "Hello!"
 mood: happy
 category: 
 - docs
