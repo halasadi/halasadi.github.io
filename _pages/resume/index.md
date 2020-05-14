@@ -21,7 +21,7 @@ Located in Seattle, WA
 
 **Statistical Geneticist at <a href="https://www.adaptivebiotech.com" title="ab">Adaptive Biotechnologies</a>** (Jun-Aug 2017, Jul 2018 - now)
 
-I analyze and build statistical models of immunological data.
+I develop statistical methods and software, which have been integrated into some of Adaptive Biotech’s key technologies.
  
 # Publications
 
