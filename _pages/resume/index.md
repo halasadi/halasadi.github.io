@@ -9,7 +9,7 @@ Located in Seattle, WA
 
 # Education
 
-**PhD, Evolutionary Genetics** at *The University of Chicago, 2018*
+**PhD Studying Statistical Genetics** at *The University of Chicago, 2018*
 
 - Thesis title: *Statistical Methods for Genetic Data*. Please see thesis <a href="http://stephenslab.uchicago.edu/assets/papers/hussein-thesis.pdf" title="ab">here</a>. 
 
